@@ -27,3 +27,4 @@ int main(int argc, char** argv)  //main function//
     MPI_Finalize();
     return 0;
 }
+
